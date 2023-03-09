@@ -1,7 +1,7 @@
-# amazon-sagemaker-flan-t5-xxl
+# amazon-sagemaker-flan-UL2 20B
 
-This repository contains instruction and code on how to run `FLAN-T5-XXL` for inference using Amazon SageMaker.
+This repository contains instruction and code on how to run `FLAN-UL2` for inference using Amazon SageMaker.
 
 Follow the [sagemaker notebook](sagemaker-notebook.ipynb) to get started.
 
-## Blog post: [Deploy FLAN-T5 XXL on Amazon SageMaker](https://www.philschmid.de/deploy-flan-t5-sagemaker)
+## Blog post: [Deploy FLAN-UL2 20B on Amazon SageMaker](https://www.philschmid.de/deploy-flan-ul2-sagemaker)
