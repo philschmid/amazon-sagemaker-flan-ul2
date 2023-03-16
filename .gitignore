@@ -127,6 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-flan-t5-xxl-sharded-fp16/
+flan-*/
 model.tar.gz
 code/
